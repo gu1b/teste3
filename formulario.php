@@ -15,7 +15,7 @@
         Password: <input type="password" name="palavra_passe"><br />
         
             
-        <input type="submit" name="botao_enviarrrr" value="Enviar"><br />    
+        <input type="submit" name="botao_enviar" value="Enviar"><br />    
         
         
         
